@@ -1,19 +1,19 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muhammad Nabil Hossain</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Bangladesh.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mozammel Hossan Shamim</h1>
+<h3 align="center">I'm a Software Implementation Engineer from Bangladesh.</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Expense-Tracker App](https://mdnabilhossain.netlify.app/)**
+- 🔭 I’m currently working on [Zara Zaman Technology Ltd](https://www.zztlbd.com).
 
-- 🌱 I’m currently learning **Web Developer**
+- 🌱 I’m currently learning [American International University-Bangladesh](https://www.aiub.edu).
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com).
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://mdnabilhossain.netlify.app/)**
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/MH-SHAMIM123).
 
-- 📫 How to reach me **mdnabilhossain1211@gmail.com**
+- 📫 How to reach me [Email](mdmozammelhossanshamim@gmail.com), [Facebook](https://www.facebook.com/mozammel.hossan.14/),   [Linkedin](https://www.linkedin.com/in/mh-shamim-a5093a215/)
 
 - ⚡ Fun fact **I love playing games more than coding.**
 
