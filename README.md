@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on [Zara Zaman Technology Ltd](https://www.zztlbd.com).
+- 🔭 I’m currently working on [Againsoft](https://www.againsoft.com).
 
 - 🌱 I’m currently learning [American International University-Bangladesh](https://www.aiub.edu).
 
@@ -50,8 +50,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/MdNabilHossain/github-readme-streak-stats"><img alt="MdNabilHossain's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MdNabilHossain&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/MdNabilHossain/github-readme-streak-stats"><img alt="MdNabilHossain's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdNabilHossain&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/MH-SHAMIM123/github-readme-streak-stats"><img alt="MH-SHAMIM123's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MdNabilHossain&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/MH-SHAMIM123/github-readme-streak-stats"><img alt="MH-SHAMIM123's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MH-SHAMIM123&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -75,7 +75,7 @@
 
 ## ❤ Views and Followers
 
-<a href="https://github.com/MdNabilHossain/github-profile-views-counter">
+<a href="[https://github.com/MH-SHAMIM123]/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=MatrixGlitch-Hridoy">
 </a>
-<a href="https://github.com/MdNabilHossain?tab=followers"><img src="https://img.shields.io/github/followers/MatrixGlitch-Hridoy?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/MH-SHAMIM123?tab=followers"><img src="https://img.shields.io/github/followers/MatrixGlitch-Hridoy?label=Followers&style=social" alt="GitHub Badge"></a>
