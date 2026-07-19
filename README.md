@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 **Currently working on:** Enterprise ERP systems at **AgainSoft** (.NET 10, Blazor, Microservices)
+- 🔭 **Currently working on:** Enterprise ERP systems at **AgainSoft** (.NET 9, .NET 10, Blazor, Angular, Microservices)
 - 🌱 **Currently learning:** Advanced Microservices Architecture & Cloud Technologies
 - 👯 **Looking to collaborate on:** .NET open-source projects
 - 📫 **Reach me at:** [Email](mailto:mdmozammelhossanshamim@gmail.com)
