@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mozammel Hossan Shamim</h1>
-<h3 align="center">.NET Full Stack Developer | Blazor Specialist | Microservices Enthusiast</h3>
+<h3 align="center">.NET Full Stack Developer | System Architect | Microservices Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MH-SHAMIM123&label=Profile%20Views&color=0e75b6&style=flat" alt="profile-views" />
@@ -12,56 +12,109 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 **Currently working on:** Enterprise ERP systems at **AgainSoft** (.NET 9, .NET 10, Blazor, Angular, Microservices)
-- 🌱 **Currently learning:** Advanced Microservices Architecture & Cloud Technologies
-- 👯 **Looking to collaborate on:** .NET open-source projects
+- 🔭 **Currently working on:** Enterprise ERP systems at **AgainSoft** — .NET 10, Blazor, Angular, Microservices
+- 🌱 **Currently learning:** Advanced Cloud Architecture & System Design
+- 👯 **Looking to collaborate on:** Open-source .NET projects
+- 🏗️ **Recent Project:** Built a **production-ready multi-brand restaurant platform** for a UK client — solo development from architecture to deployment
 - 📫 **Reach me at:** [Email](mailto:mdmozammelhossanshamim@gmail.com)
 - 💼 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/mh-shamim-a5093a215/) | [GitHub](https://github.com/MH-SHAMIM123)
-- ⚡ **Fun fact:** I love solving complex system design problems more than coding trivial stuff 😄
 
 ---
 
 ## 🚀 Tech Stack
 
-### Core Technologies
+### Backend
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediatR-0078D4?style=for-the-badge&logo=mediatr&logoColor=white" />
 </p>
 
 ### Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Radzen-FF6B6B?style=for-the-badge&logo=radzen&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-### Database
+### Database & Cache
 <p align="left">
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-### Tools & Others
+### Messaging & Real-Time
 <p align="left">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=signalr&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+</p>
+
+### DevOps & Tools
+<p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ### AI Tooling
 <p align="left">
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=google&logoColor=white" />
 </p>
+
+---
+
+## 🏆 Featured Projects
+
+### 🍔 BARAKA SNACK — Multi-Brand Restaurant Platform
+*.NET 9 · Next.js 14 · PostgreSQL · SignalR · AI RAG*
+
+> Production-ready platform for a UK client — 5 apps from a single codebase, 369 APIs, 304 CQRS handlers, 4 SignalR hubs, and AI-powered customer support.
+
+**Tech:** .NET 9, Next.js 14 (React), PostgreSQL, Redis, Docker, SignalR, OpenAI RAG
+
+---
+
+### 🏥 Docine — Hospital Management System (SaaS)
+*.NET 10 · Angular 17 · RabbitMQ · Redis*
+
+> Multi-tenant hospital platform with 10+ microservices, real-time OPD queue, and async inter-service communication.
+
+**Tech:** .NET 10, Angular 17, SQL Server, RabbitMQ, Redis, SignalR, Docker
+
+---
+
+### 🏫 CodeSynapse — School Management ERP
+*.NET 10 · Blazor · Microservices · Aspire*
+
+> Multi-tenant school ERP with 7 microservices, YARP gateway, automated admission-to-invoice workflow, and mobile foundation.
+
+**Tech:** .NET 10, Blazor, SQL Server, MediatR, YARP, Aspire, Flutter, JWT
+
+---
+
+### 🔒 Messly — SaaS Security Hardening
+*.NET 10 · Blazor · JWT · RBAC*
+
+> Security transformation of a flat-management SaaS — tenant isolation, IDOR elimination, RBAC enforcement.
+
+**Tech:** .NET 10, Blazor Server, EF Core, JWT, RBAC, xUnit
+
+---
+
+### 📦 AgainSoft Inventory ERP
+*.NET 10 · Blazor · EF Core · AI Agent*
+
+> Enterprise ERP with AI-powered chat-driven operations, UI standardization, and cross-service price sync.
+
+**Tech:** .NET 10, Blazor Server, SQL Server, Radzen.Blazor, AI Agent
 
 ---
 
@@ -78,18 +131,6 @@
 
 ---
 
-## 🏆 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **CodeSynapse ERP** | Multi-tenant School Management System | .NET 10, Blazor, Microservices, SQL Server |
-| **Messly** | Multi-tenant SaaS Security Hardening | .NET 10, Blazor, JWT, RBAC |
-| **AgainSoft Inventory ERP** | Enterprise Inventory Management | .NET 10, Blazor Server, EF Core, Radzen |
-
-> 🔗 Check out my repositories: [github.com/MH-SHAMIM123](https://github.com/MH-SHAMIM123)
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
@@ -103,7 +144,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/mozammel.hossan.14/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style-for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
